@@ -5,6 +5,7 @@ This is a repo for list of papers, articles and videos, I like/love/think are in
 ## Computer Science (CS):
 
 + A Fast, Minimal Memory, Consistent Hash Algorithm (John Lamping, Eric Veach, Google).
++ Public Key Encryption and Digital Signature: How do they work?
 
 ## Self-Development / Improvement (Self)
 
